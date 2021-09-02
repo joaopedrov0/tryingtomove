@@ -3,7 +3,7 @@
     height: 150px;
     background-color: red;
     position:absolute;
-    transition: transform 0.2s ease-in;
+    transition: transform 50ms ease-in;
 }
 #control{
     position: fixed;
